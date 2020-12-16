@@ -12,7 +12,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/osman_burakk
-[2]:https://www.linkedin.com/in/burakintisah/
+[2]: https://www.linkedin.com/in/burakintisah/
 
 <!--
 **burakintisah/burakintisah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
