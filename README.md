@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm burak! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7DC6F&center=true&vCenter=true&random=false&width=435&lines=i+break+things+and+sometimes+fix+them;coffee+%E2%86%92+code+%E2%86%92+bugs+%E2%86%92+more+coffee;if+it+works%2C+don't+touch+it+%F0%9F%98%85" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7DC6F&center=true&vCenter=true&random=false&width=480&lines=i+break+things+and+sometimes+fix+them;coffee+%E2%86%92+code+%E2%86%92+bugs+%E2%86%92+more+coffee;if+it+works%2C+don't+touch+it+%F0%9F%98%85;404%3A+sleep+not+found;git+commit+-m+%22please+work%22;ctrl%2Bz+is+my+best+friend;there+are+10+types+of+people+in+this+world...;sudo+make+me+a+sandwich+%F0%9F%A5%AA;my+code+works%2C+i+have+no+idea+why;99+bugs+in+the+code%2C+fix+one%2C+127+bugs+now" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -32,10 +32,6 @@ const burak = {
 ### the numbers (because why not)
 
 <p align="center">
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=burakintisah&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=F7DC6F&title_color=F7DC6F&text_color=c9d1d9" />
-</p>
-
-<p align="center">
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=burakintisah&theme=radical&hide_border=true&background=0d1117&ring=F7DC6F&fire=F7DC6F&currStreakLabel=F7DC6F&sideLabels=F7DC6F" />
 </p>
 
@@ -51,6 +47,18 @@ Thursday:  ☕ running on 4 cups of coffee
 Friday:    🚀 deploy and pray
 Saturday:  😴 recovering from friday's deploy
 Sunday:    🔄 "i'll start fresh on monday"
+```
+
+---
+
+### skill tree (totally accurate)
+
+```text
+🥇 googling stuff        ████████████████████████████░░  93%
+🥈 blaming the compiler  ██████████████████████░░░░░░░░  70%
+🥉 reading docs          █████████████░░░░░░░░░░░░░░░░  42%
+🏅 writing tests         ████████░░░░░░░░░░░░░░░░░░░░░  25%
+💀 closing vim           ██░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%
 ```
 
 ---
