@@ -32,10 +32,6 @@ const burak = {
 ### the numbers (because why not)
 
 <p align="center">
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=burakintisah&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=F7DC6F&title_color=F7DC6F&text_color=c9d1d9" />
-</p>
-
-<p align="center">
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=burakintisah&theme=radical&hide_border=true&background=0d1117&ring=F7DC6F&fire=F7DC6F&currStreakLabel=F7DC6F&sideLabels=F7DC6F" />
 </p>
 
